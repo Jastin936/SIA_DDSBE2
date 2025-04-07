@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # SIA-DDSBE1
 =======
 # Lumen PHP Framework
@@ -26,3 +27,6 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> d9415b6 (First Push to Repository)
+=======
+# SIA_DDSBE1
+>>>>>>> 316ff7b886f85b88ab4083f666af37ce543a17b1
